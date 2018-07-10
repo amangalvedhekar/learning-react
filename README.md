@@ -6,8 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 * Component Types:
     * Component Using ` class `
+        - built using ` es6 ` classes
+        - access to ` state ` and ` props `
+        - life cycle methods can be accessed
     * Component Using ` function `
-        - Components are stateless
+        - stateless
         - No use of ` this ` keyword
         - Can access ` props ` only
         - No access to life cycle methods like ` componentDidMount `
