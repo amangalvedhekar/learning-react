@@ -26,8 +26,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ### Props
+* Immutable
+* defaultProps
 
 ### State
+* setState with class Components
+* useState with hooks
+* will be mutated
+* shallow merging with setState
+* setState is asynchronous 
 
 ### JSX
 
